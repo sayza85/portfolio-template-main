@@ -37,9 +37,9 @@ export const games: Game[] = [
     ],
     media: [
       { source: "https://www.youtube.com/embed/aeA_NZXMz9c", type: MediaType.YouTube },
-      { source: "/images/games/silen_ember/ทุน.jpg", type: MediaType.Image },
-      { source: "/images/games/silen_ember/บอร์ด.jpg", type: MediaType.Image },
-      { source: "/images/games/silen_ember/ปก.jpg", type: MediaType.Image },
+      { source: "/images/games/silen_ember/funding.jpg", type: MediaType.Image },
+      { source: "/images/games/silen_ember/board.jpg", type: MediaType.Image },
+      { source: "/images/games/silen_ember/cover.jpg", type: MediaType.Image },
     ],
   
   },
